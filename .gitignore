@@ -1,0 +1,23 @@
+# Байт-кампіляваныя файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook чэкпойнты
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Віртуальныя асяроддзі
+.venv/
+venv/
+ENV/
+env/
+
+# Канфігурацыі IDE і рэдактараў
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
