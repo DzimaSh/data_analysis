@@ -21,3 +21,8 @@ env/
 *.njsproj
 *.sln
 *.swp
+
+# Файлы даных (Data files)
+imdb.npz
+imdb_word_index.json
+
